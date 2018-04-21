@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "70a93d43-7d49-411d-aeb2-1961e7b61857",
+            "Value": {
+                "id": "5286e628-648f-4529-b5a2-3467800346fd",
+                "resourcePath": "sprites\\spr_population\\spr_population.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7d40f18b-9e39-4182-bf7c-629e4a553f65",
             "Value": {
                 "id": "919169c2-23a7-47b5-8873-430522cddc97",
@@ -124,14 +132,6 @@
                 "id": "5ec3970c-e75e-42b8-88f2-9284c406f55a",
                 "resourcePath": "views\\83be766b-95fe-409a-9404-997906355c86.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
-            "Value": {
-                "id": "ff9cc96f-2160-48d0-818e-b3177565d740",
-                "resourcePath": "options\\ios\\options_ios.yy",
-                "resourceType": "GMiOSOptions"
             }
         },
         {
@@ -159,8 +159,6 @@
             }
         },
         {
-<<<<<<< HEAD
-<<<<<<< HEAD
             "Key": "9cf87e33-497b-45e7-b9b8-71232f6db702",
             "Value": {
                 "id": "e1ca41cd-b6b1-4bf8-9d62-29d9ed120946",
@@ -174,26 +172,9 @@
                 "id": "15f2fcd0-662d-4a31-812f-e0dfac76e72a",
                 "resourcePath": "sprites\\spr_road\\spr_road.yy",
                 "resourceType": "GMSprite"
-=======
-            "Key": "9ea9ebd8-0996-467e-9ce5-7087a0f29c30",
-            "Value": {
-                "id": "bd91ca9a-e814-4cef-931c-be865f799450",
-                "resourcePath": "datafiles_yy\\LD41.txt.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
-            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
-            "Value": {
-                "id": "74716e92-58dd-44f8-8637-def9319d7e76",
-                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
-                "resourceType": "GMAmazonFireOptions"
->>>>>>> fe4689ca58af38d062a3f6cc81246cb83944dbc7
-            }
-        },
-        {
-=======
->>>>>>> parent of 8c60ae6... Adding buildings
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "9754f029-78f4-4d26-b1a0-354067ca03e9",
@@ -242,14 +223,6 @@
             }
         },
         {
-            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
-            "Value": {
-                "id": "bd5a287a-639b-4d6a-89ff-b0700d84b9f0",
-                "resourcePath": "options\\android\\options_android.yy",
-                "resourceType": "GMAndroidOptions"
-            }
-        },
-        {
             "Key": "f274a56c-067e-454c-a3d4-efd5f7f30d94",
             "Value": {
                 "id": "c187c021-c707-4b12-b71f-1d40835f8d32",
@@ -271,6 +244,22 @@
                 "id": "a0165d50-593d-4ff6-a054-e96b98cc154a",
                 "resourcePath": "views\\f46967ea-50c9-4243-8c6e-a030247d0260.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f818cbda-c1b3-4143-b97f-4b03ceda8a8a",
+            "Value": {
+                "id": "e5704616-375c-495c-9466-bfe9fd6e6cb7",
+                "resourcePath": "objects\\obj_road\\obj_road.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fdda3b9c-4449-425d-8ece-deb747ef0244",
+            "Value": {
+                "id": "14d92517-48d5-4416-ad9f-88b6e52769f5",
+                "resourcePath": "objects\\obj_population_add\\obj_population_add.yy",
+                "resourceType": "GMObject"
             }
         },
         {
