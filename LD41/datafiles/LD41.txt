@@ -1,0 +1,6 @@
+Ludum Dare 41:
+
+Topic: Combine 2 Incompatible Genres
+
+Ideas: Sim city style game with a twist (Horror and Humor)
+
