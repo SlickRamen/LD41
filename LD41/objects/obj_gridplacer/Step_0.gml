@@ -12,9 +12,9 @@ rotval = clamp(rotval,0,360)
 	}
 	
 	if keyboard_check_pressed(ord("1")){
-		object = (obj_building)
+		object = (obj_furnace)
 	}else if keyboard_check_pressed(ord("2")){
-		object = (obj_road)
+		object = (obj_tree)
 	}
 	
 	if mouse_check_button(mb_left) and !collider{
