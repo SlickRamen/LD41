@@ -111,14 +111,6 @@
             }
         },
         {
-            "Key": "70a93d43-7d49-411d-aeb2-1961e7b61857",
-            "Value": {
-                "id": "5286e628-648f-4529-b5a2-3467800346fd",
-                "resourcePath": "sprites\\spr_population\\spr_population.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7d40f18b-9e39-4182-bf7c-629e4a553f65",
             "Value": {
                 "id": "919169c2-23a7-47b5-8873-430522cddc97",
@@ -156,22 +148,6 @@
                 "id": "66ee78e0-52ee-4310-8a07-40348c56f46f",
                 "resourcePath": "views\\92f5a63d-e892-44d1-8fb9-1e7931c3f5fe.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "9cf87e33-497b-45e7-b9b8-71232f6db702",
-            "Value": {
-                "id": "e1ca41cd-b6b1-4bf8-9d62-29d9ed120946",
-                "resourcePath": "fonts\\fnt_text\\fnt_text.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "a6f87959-3ef7-42b2-b0e3-5f8552618ffd",
-            "Value": {
-                "id": "15f2fcd0-662d-4a31-812f-e0dfac76e72a",
-                "resourcePath": "sprites\\spr_road\\spr_road.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -244,22 +220,6 @@
                 "id": "a0165d50-593d-4ff6-a054-e96b98cc154a",
                 "resourcePath": "views\\f46967ea-50c9-4243-8c6e-a030247d0260.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f818cbda-c1b3-4143-b97f-4b03ceda8a8a",
-            "Value": {
-                "id": "e5704616-375c-495c-9466-bfe9fd6e6cb7",
-                "resourcePath": "objects\\obj_road\\obj_road.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "fdda3b9c-4449-425d-8ece-deb747ef0244",
-            "Value": {
-                "id": "14d92517-48d5-4416-ad9f-88b6e52769f5",
-                "resourcePath": "objects\\obj_population_add\\obj_population_add.yy",
-                "resourceType": "GMObject"
             }
         },
         {
